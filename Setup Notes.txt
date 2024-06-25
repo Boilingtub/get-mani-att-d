@@ -1,0 +1,8 @@
+Setup Notes:
+1. Designed for linux system
+2. Have python 2.6 of later installed on local maschine
+3. have Gmail API installed on local maschine
+  #-> pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+4. Run Script with >> python3 get-mani-att-d.py [email filter] [date]
+5. REMEMBER to configurate the get-manu-att-d.py.config file
+6. 
